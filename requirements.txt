@@ -17,6 +17,6 @@ pytz==2018.6
 redis==2.10.6
 RPi.GPIO==0.6.4
 six==1.11.0
-Twisted==18.9.0
+Twisted==19.2.1
 txaio==18.8.1
 zope.interface==4.6.0
